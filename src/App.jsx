@@ -268,16 +268,16 @@ function App() {
         <div className="timeline">
           {[
             {
-              time: '9:00 AM',
-              title: 'Wedding Ceremony',
-              desc: 'The celebration begins as Nuel & Nahi exchange their vows surrounded by loved ones.',
-              icon: 'rings',
-            },
-            {
-              time: '12:00 PM',
+              time: '10:00 AM',
               title: 'Marriage Rites',
               desc: 'A sacred and joyful celebration of traditional rites honoring both families.',
               icon: 'hands',
+            },
+            {
+              time: '1:00 PM',
+              title: 'Photos & Portraits',
+              desc: 'Capture memories with the couple — family portraits, group shots, and candid moments.',
+              icon: 'camera',
             },
             {
               time: '2:00 PM',
@@ -286,13 +286,7 @@ function App() {
               icon: 'fork',
             },
             {
-              time: '4:00 PM',
-              title: 'Photos & Portraits',
-              desc: 'Capture memories with the couple — family portraits, group shots, and candid moments.',
-              icon: 'camera',
-            },
-            {
-              time: '7:00 PM',
+              time: '6:00 PM',
               title: 'Evening Party',
               desc: 'Dance the night away as we celebrate the newlyweds with music, joy, and laughter.',
               icon: 'music',
