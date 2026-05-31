@@ -256,7 +256,7 @@ function App() {
             </div>
           ))}
         </div>
-        <p className="countdown-date-note">Saturday · June 20, 2026 · 3:00 PM</p>
+        <p className="countdown-date-note">Saturday · June 20, 2026 · 10:00 PM</p>
       </section>
 
       {/* ── TIMELINE SECTION ── */}
