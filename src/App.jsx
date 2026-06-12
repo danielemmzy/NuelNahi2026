@@ -204,8 +204,8 @@ function App() {
             </svg>
             <span className="detail-card-label">Venue</span>
             <span className="detail-card-value">Location</span>
-            <span className="detail-card-big">Mijl Residences & Villa</span>
-            <span className="detail-card-sub">Orji Murray St, Ikate Lekki · Lagos</span>
+            <span className="detail-card-big">Plot 30, Block 4 Ibiyinka Salvador</span>
+            <span className="detail-card-sub"> off Africa Lane, Lekki phase 1 · Lagos</span>
           </div>
 
           <div className="detail-card">
