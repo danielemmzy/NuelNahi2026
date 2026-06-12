@@ -353,7 +353,7 @@ function App() {
         {/* Venue Button */}
         
         <a  className="venue-btn"
-          href="https://maps.google.com/?q=Mijl+Residences+And+Villa+Orji+Murray+Street+Ikate+Lekki+Lagos+Nigeria"
+          href="https://www.google.com/maps/search/?api=1&query=Plot+30+Block+4+Ibiyinka+Salvador+off+Africa+Lane+Lekki+Phase+1+Lagos+Nigeria"
           target="_blank"
           rel="noopener noreferrer"
           style={{ marginTop: '24px' }}
@@ -366,7 +366,7 @@ function App() {
           </span>
           <span className="venue-btn-text">
             <span className="venue-btn-main">Find the Venue</span>
-            <span className="venue-btn-sub">Mijl Residences & Villa · Orji Murray St · Ikate, Lekki · Lagos</span>
+            <span className="venue-btn-sub">Plot 30, Block 4 Ibiyinka Salvador off Africa Lane, Lekki phase 1 · Lagos</span>
           </span>
           <span className="venue-btn-arrow">
             <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
